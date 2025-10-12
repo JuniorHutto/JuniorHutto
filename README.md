@@ -1,6 +1,5 @@
 # About
-
-Hi, I am Junior Hutto, a GIS Specialist at NRCS.  I am keenly interested in tool scripts and GIS modeling and I thrive on learning and adapting. I am delving into Python, ArcPy, PostGIS, Home Labs, and anything else that captures my curiosity, always open to new ideas and technologies.   You can reach me at jr@hutto.io for any professional discussions.  
+Hi, I am interested in Home Labs, Regenerative Agriculture, and GIS applications.  
 
 # <h1 align="center"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1> 
 
