@@ -1,5 +1,5 @@
 # About
-Hi, I am interested in Home Labs, Regenerative Agriculture, and GIS applications.  
+Hi, I am interested in Regenerative Agriculture, and GIS applications.  
 
 # <h1 align="center"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1> 
 
