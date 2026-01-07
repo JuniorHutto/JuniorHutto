@@ -1,8 +1,8 @@
 
 # About
-Hi, I am interested in Regenerative Agriculture, applications development.  
+Hi, I am interested in Regenerative Agriculture and applications development.  
 ## Goal
-Just Junior integrates software development with regenerative agriculture. 
+Goal is to  integrates software development with regenerative agriculture. 
 ## Bio
 An Illinois native and Oklahoma State alumnus, I bring a unique perspective shaped by 20 years of dairy farming followed by 20 years as a GIS Consultant.
 ## Plan
