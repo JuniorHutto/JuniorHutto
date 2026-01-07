@@ -1,6 +1,6 @@
 
 # About
-Hi, I am interested in Regenerative Agriculture, and GIS applications.  
+Hi, I am interested in Regenerative Agriculture, applications development.  
 ## Goal
 Just Junior integrates software development with regenerative agriculture. 
 ## Bio
