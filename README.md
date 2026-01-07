@@ -1,5 +1,4 @@
 
-# <h1 align="left"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1> 
 # About
 Hi, I am interested in Regenerative Agriculture, and GIS applications.  
 ## Goal
@@ -13,7 +12,9 @@ My background in animal agriculture, geography, and sustainable food production 
 
 **Have Fun!** 
 
-*Junior Hutto* 
+*Junior Hutto*
+
+# <h1 align="left"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1> 
 
 
 
