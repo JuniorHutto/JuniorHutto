@@ -1,8 +1,19 @@
+
+# <h1 align="left"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1> 
 # About
 Hi, I am interested in Regenerative Agriculture, and GIS applications.  
+## Goal
+Just Junior integrates software development with regenerative agriculture. 
+## Bio
+An Illinois native and Oklahoma State alumnus, I bring a unique perspective shaped by 20 years of dairy farming followed by 20 years as a GIS Consultant.
+## Plan
+My approach is rooted in practical problem-solving: I identify systemic challenges within regenerative agriculture and develop custom software solutions to address them.
+## Summary
+My background in animal agriculture, geography, and sustainable food production gives me a unique and valuable perspective.
 
-# <h1 align="center"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1> 
+**Have Fun!** 
 
+*Junior Hutto* 
 
 
 
