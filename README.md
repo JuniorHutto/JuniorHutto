@@ -3,8 +3,6 @@
 Hi, I am interested in Regenerative Agriculture and applications development.  
 ## Goal
 The aim is to integrates software development with regenerative agriculture. 
-## Bio
-An Illinois native and Oklahoma State alumnus, I bring a unique perspective shaped by 20 years of dairy farming followed by 20 years as a GIS Consultant.
 ## Plan
 My approach is rooted in practical problem-solving: I identify systemic challenges within regenerative agriculture and develop custom software solutions to address them.
 ## Summary
