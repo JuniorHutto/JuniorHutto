@@ -1,19 +1,24 @@
+# Hi there! 👋
 
-# About
-Hi, I am interested in Regenerative Agriculture and applications development.  
-## Goal
-The aim is to integrates software development with regenerative agriculture. 
-## Plan
+<h1 align="left"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1>
+
+## About Me
+Hi, I am interested in Regenerative Agriculture and applications development.
+
+## 🎯 Goal
+The aim is to integrate software development with regenerative agriculture.
+
+## 📋 Approach
 My approach is rooted in practical problem-solving: I identify systemic challenges within regenerative agriculture and develop custom software solutions to address them.
-## Summary
+
+## 🌱 Background
 My background in animal agriculture, geography, and sustainable food production gives me a unique and valuable perspective.
+
+---
 
 **Have Fun!** 
 
 *Junior Hutto*
-
-# <h1 align="left"><img src="https://github.com/user-attachments/assets/fab1545c-3fa9-42cc-ba3b-5d133677dd6c"/></h1> 
-
 
 
 <!---
